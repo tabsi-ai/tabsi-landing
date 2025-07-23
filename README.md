@@ -23,4 +23,3 @@ Open [http://localhost:3000](http://localhost:3000) to view the site.
 - Sleek, modern, professional landing page
 - Responsive and mobile-friendly
 - Built with Tailwind CSS and Next.js
-# tabsi-landing
